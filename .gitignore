@@ -11,3 +11,4 @@ outputs/logs/*.log
 .idea/
 .DS_Store
 *.egg-info/
+outputs/
