@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Parking YOLO
 
 <p align="center">
@@ -118,3 +119,6 @@ pytest tests/ -v
 ## License
 
 This project is licensed under the [MIT License](LICENSE). It uses [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) (AGPL-3.0) and ByteTrack, both third-party technologies not authored by this project. The included sample video is stock footage used for local development and demonstration only.
+=======
+# Smart-Parking-System
+>>>>>>> origin/main
